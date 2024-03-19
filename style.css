@@ -267,7 +267,9 @@ p{
 .testimonials-col h3{
     margin-top: 15px;
     text-align: left;
-
+}
+.testimonials-col .fa-solid{
+    color:#f44336 ;
 }
   
 
